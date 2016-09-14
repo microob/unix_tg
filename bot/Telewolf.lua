@@ -255,26 +255,13 @@ function create_config( )
     "lock_username",
 	
     },
-    sudo_users = {189897594,72609318,199471668,222499735},--Sudo users
+    sudo_users = {253204747},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Telewolf v1
+    about_text = [[unix_tg v1
 An advanced administration bot based on TG-CLI written in Lua
 
 
-sudoes:
-@ashi_0071
-@Best-Etehad_admin1
-@hamed7183
-@thisismehrshad
-*******************
-*******************
-Special thanks to
-mohammad hosein [pika's sudo]
-davood [hellbot' sudo]
 
-         ****************
-chaneel :* @telewolf_ch *
-         ****************
 
  
 
